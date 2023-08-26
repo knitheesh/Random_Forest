@@ -23,3 +23,7 @@
 8. Use a random forest classfier  and fit ur model
 
 9. Find out the model accuracy
+
+# conclusion :
+ 
+Model has approached the accuracy 1.00 , which is lies between in a range of 0-1. Hence it is shows that Random_Forest Decision model sucessfully implemented
